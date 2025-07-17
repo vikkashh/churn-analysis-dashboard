@@ -67,4 +67,4 @@ a)Implementing these insights can reduce churn by 5–8%.
 b)Estimated revenue retention of $1M+ annually with strategic improvements.
 
 10. Screenshot
-    
+!Dashboard Preview (https://github.com/vikkashh/churn-analysis-dashboard/blob/main/dashboard.SS.png)
