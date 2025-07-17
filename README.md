@@ -59,11 +59,13 @@ c) Female customers and customers from Spain had higher attrition.
 Retention Opportunities:
 
 a)Providing offers to single-product holders.
+
 b)Engaging inactive users with loyalty programs or proactive service.
 
 Strategic Outcome:
 
 a)Implementing these insights can reduce churn by 5–8%.
+
 b)Estimated revenue retention of $1M+ annually with strategic improvements.
 
 10. Screenshot
