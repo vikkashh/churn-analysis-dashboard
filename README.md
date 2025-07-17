@@ -1,4 +1,4 @@
-# churn-analysis-dashboard# churn-analysis-dashboard
+# churn-analysis-dashboard
 
 1. Project Title
 
@@ -67,4 +67,4 @@ a)Implementing these insights can reduce churn by 5–8%.
 b)Estimated revenue retention of $1M+ annually with strategic improvements.
 
 10. Screenshot
- (https://github.com/vikkashh/churn-analysis-dashboard/blob/main/dashboard.SS.png)
+![alt text](https://github.com/vikkashh/churn-analysis-dashboard/blob/main/dashboard.SS.png)
